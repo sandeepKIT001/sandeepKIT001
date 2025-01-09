@@ -1,7 +1,7 @@
 👋 Hi, I'm Sandeep!  
 🎓 BCA Final Year Student at Kashi Institute of technology.  
 💻 Passionate about Web Development and Open Source Contributions.  
-🚀 Currently learning ReactJS and working on innovative projects to enhance my skills.  
+🚀 Currently learning ReactJS ,Java and working on innovative projects to enhance my skills.  
 
 🔭 **Projects**  
 🌐 Personal Portfolio   
