@@ -13,7 +13,7 @@
 🌐 [Portfolio](https://sandeep001.netlify.app/)
 
 🚀 **Tech Stack**  
-HTML5 • CSS3 • JavaScript • ReactJS • C • C++ • Python
+HTML5 • CSS3 • JavaScript • ReactJS • C • C++ • Java
 
 🌟 **What I Love:**
   - Crafting interactive and user-friendly web interfaces
