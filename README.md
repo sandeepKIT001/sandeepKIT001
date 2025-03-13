@@ -1,7 +1,7 @@
 👋 Hi, I'm Sandeep!  
 🎓 BCA Final Year Student at Kashi Institute of technology.  
 💻 Passionate about Web Development and Open Source Contributions.  
-🚀 Currently learning Python full stack development at Qspider, Noida.  
+🚀 Currently learning Python full stack development at Qspiders, Noida.  
 
 🔭 **Projects**  
 🌐 Personal Portfolio   
